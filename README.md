@@ -30,9 +30,11 @@ Bu kodlar ayri ayri terminallerde,yazilmiş siralamayla calistirilmalidir.Konu d
 detaylara https://www.ros.org/ ve https://wiki.ros.org/mavros
 
 1.adim,ROS'un calistirilmasi
+
 roscore
 
 2.adim,Mavrosun baslatilmasi 
+
 roslaunch mavros apm.launch fcu_url:=/dev/ttyACM0:115200
 
 burda otopilotunuzun hangi porta bagli oldugunu bilgisayarinizin terminalinde  ls /dev komutunu yazarak bulabilirsiniz,baudrate degeri yer kontrol yazilimindan ayarlanabilir benim bilgisayarlarimda ttyACM0 portuna  baglaniyor seri port haberlesme hizim 115200 bps olarak ayarli
@@ -40,4 +42,5 @@ burda otopilotunuzun hangi porta bagli oldugunu bilgisayarinizin terminalinde  l
 3.adim,ros icerisine yayinlanmamis paketler olabilir,yani dosyalardan birini calistirdiginizda yada kendi düzenlediginiz kodunuzda ulasmak istediginiz verilere ulasamiyorsaniz set_stream_service_ros.py icerisinde ki fonksyonu kendi kodunuza ekleyip ilk basta cagirabilirsiniz yada terminalde rosservice call /mavros/set_stream_rate 0 10 1 komutu yazilarak tüm paketlerin yayinlanmasini saglayacaktır.
 
 İyi ucuslar 
+
 M.Furkan ATES
