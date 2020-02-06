@@ -27,7 +27,7 @@ Kullanilan yazilim ve donanimlar,kodlar bu sistemlerle ve yazilimlarla test edil
 
 Bu kodlar ayri ayri terminallerde,yazilmiş siralamayla calistirilmalidir.Konu dahilinde hizli bir baslangic yapabilmeniz için paylasilmistir.
 
-detaylara https://www.ros.org/ ve https://wiki.ros.org/mavros
+detaylara  https://www.ros.org/ ve https://wiki.ros.org/mavros adreslerinden ulasabilirsiniz,örnekler sizlere fikir verecektir
 
 1.adim,ROS'un calistirilmasi
 
@@ -44,3 +44,5 @@ burda otopilotunuzun hangi porta bagli oldugunu bilgisayarinizin terminalinde  l
 İyi ucuslar 
 
 M.Furkan ATES
+
+
