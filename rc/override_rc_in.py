@@ -23,4 +23,5 @@ def autopilot_talker():
 
 while not rospy.is_shutdown(): 
   autopilot_talker()
+  override()
   rospy.spin()
