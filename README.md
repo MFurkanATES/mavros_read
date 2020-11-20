@@ -48,5 +48,7 @@ burda otopilotunuzun hangi porta bagli oldugunu bilgisayarinizin terminalinde  l
 Bu dosyalar kendi eğlence ve araştırmalarım için hazırlanımış olup ,yarın bir gün uçuşun birinde kaşılaşırsak aklınızda ismimi çağrıştırmak için sizlerle paylaşıma sunulmuştur.Tabi birde üstte yazdıklarım var :D
 
 M.Furkan ATES
+BlackBird UAV
+
 
 
