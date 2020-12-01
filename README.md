@@ -28,7 +28,10 @@ Kullanilan yazilim ve donanimlar,kodlar bu sistemlerle ve yazilimlarla test edil
 --OMNİBUS F4 PRO
 
 
-Bu kodlar ayri ayri terminallerde,yazilmiş siralamayla calistirilmalidir.Konu dahilinde hizli bir baslangic yapabilmeniz için türkçe kaynak eksikliği ve kalan kullanıcılarında askeri bilgi diye paylaşmamasına tepki olarak paylasilmistir.Ankara_mavros dosyası bir dronla görüntü işleme üzerinden hedef takibi yapmak için yazılmış ve çalıştırılmıştır.Rc override üzerine pid kontrolle yaptım diye hatırlıyorum. sadece yaw ekseni açık isterseniz diğer eksenlerde de ayarlama yapıp kullanabilirsiniz ama kapalı alanda tehlikeli oluyor :D Not:o dosya kapalı alanda gps ve compasslar kapalı ilken uçuş yapmak için yazılmıştı.Yanlışı doğrusu nedir tam bilmiyorum önümüzdeki yıllarda konu hakkında tecrübem arttığında oturur kuralına göre tekrar yazarım ama şimdilik bu var elimde.Pozisyon  verisiyle yaparsanız benimlede paylaşırsanız sevinirim mail adresim mustafafurkanates@gmail.com .
+Bu kodlar ayri ayri terminallerde,yazilmiş siralamayla calistirilmalidir.Konu dahilinde hizli bir baslangic yapabilmeniz için türkçe kaynak eksikliği ve kalan kullanıcılarında askeri bilgi diye paylaşmamasına tepki olarak paylasilmistir.Ankara_mavros dosyası bir dronla görüntü işleme üzerinden hedef takibi yapmak için yazılmış ve çalıştırılmıştır.Rc override üzerine pid kontrolle yaptım diye hatırlıyorum. sadece yaw ekseni açık isterseniz diğer eksenlerde de ayarlama yapıp kullanabilirsiniz ama kapalı alanda tehlikeli oluyor :D Not:o dosya kapalı alanda gps ve compasslar kapalı ilken uçuş yapmak için yazılmıştı.Yanlışı doğrusu nedir tam bilmiyorum önümüzdeki yıllarda konu hakkında tecrübem arttığında oturur kuralına göre tekrar yazarım ama şimdilik bu var elimde.Pozisyon  verisiyle yaparsanız benimlede paylaşırsanız sevinirim mail adresim mustafafurkanates@gmail.com.
+
+
+
 ![ankara mavros](https://github.com/MFurkanATES/mavros_read/blob/master/Ankara_mavros-master/frame_screenshot_27.02.2020.png)
 
 detaylara  https://www.ros.org/ ve https://wiki.ros.org/mavros adreslerinden ulasabilirsiniz,örnekler sizlere fikir verecektir
