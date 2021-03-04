@@ -4,7 +4,7 @@ import tf
 from sensor_msgs.msg import Imu
 from tf.transformations import euler_from_quaternion, quaternion_from_euler
 
-x = 0.0
+X = 0.0
 Y = 0.0
 Z = 0.0
 X_degree = 0.0
